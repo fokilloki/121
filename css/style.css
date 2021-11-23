@@ -700,6 +700,7 @@ h6 {
 
 .works-slider__container {
   height: 740px;
+  position: relative;
 }
 
 .works-slider__img {
